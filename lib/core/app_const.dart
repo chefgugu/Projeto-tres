@@ -1,0 +1,10 @@
+const gTitleHome = 'Objetos Emprestados';
+const gTitleNewLoad = 'Novo Objeto';
+const gTitleDetails = 'Detalhes';
+const gLabelDescription = 'Descrição';
+const gLabelName = 'Nome';
+const gLabelLoadDate = 'Data do empréstimo';
+const gLabelPhone = 'Telefone';
+const gButtonSave = 'Salvar';
+const gDatabaseName = 'memstuff.db';
+const gDatabaseVersion = 1;
